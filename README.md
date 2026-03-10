@@ -298,7 +298,7 @@ Customer_Shopping_Behavior_Analysis
 
 Aspiring Data Analyst
 
-💡 Skills: Python | SQL | Power BI | Data Visualization | Business Analytics
+💡 Skills: Python | SQL | Excel | Power BI | Data Visualization | Business Analytics
 
 ## 🤝 Connect With Me
 
