@@ -164,7 +164,8 @@ Displays high-level KPIs:
 * Total Revenue
 * Total Orders
 * Average Order Value
-* Total Customers  
+* Total Customers
+
 ![Business Overview Dashboard](images/dashboard_page1.png)
 
 ---
@@ -176,7 +177,8 @@ Focuses on understanding customer behavior:
 * Gender spending comparison
 * Loyalty distribution
 * Customer segmentation
-* Subscription behavior  
+* Subscription behavior
+
 ![Business Overview Dashboard](images/dashboard_page2.png)
 
 ---
@@ -189,7 +191,8 @@ Analyzes product and pricing performance:
 * Discount impact
 * Rating influence
 * Shipping analysis
-* Purchase frequency trends  
+* Purchase frequency trends
+
 ![Product & Pricing Insights Dashboard](images/dashboard_page3.png)
 
 ---
