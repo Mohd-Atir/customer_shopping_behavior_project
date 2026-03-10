@@ -1,5 +1,10 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 📌 Executive Summary
 
 This project analyzes customer shopping behavior to uncover insights related to customer loyalty, purchasing patterns, and product performance.
