@@ -249,7 +249,7 @@ Customer_Shopping_Behavior_Analysis
 │   └── data_preparation.py
 │
 ├── powerbi/
-│   └── dashboard.pbix
+│   └── customer_shopping_behavior_dashboard.pbix
 │
 ├── report/
 │   └── Customer_Shopping_Behavior_Project_Report.pdf
