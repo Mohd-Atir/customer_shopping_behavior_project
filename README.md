@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
-![MySQL](https://img.shields.io/badge/Database-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
