@@ -54,7 +54,7 @@ The dataset contains **customer shopping transaction records** including demogra
 ### Dataset Size
 
 📄 **Total Records:** 3,900
-📊 **Total Columns:** 18+
+📊 **Total Columns:** 18
 
 ---
 
