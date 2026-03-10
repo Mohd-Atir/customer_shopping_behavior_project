@@ -294,6 +294,16 @@ Aspiring Data Analyst
 
 💡 Skills: Python | SQL | Power BI | Data Visualization | Business Analytics
 
+## 🤝 Connect With Me
+
+If you found this project interesting or would like to discuss data analytics opportunities, feel free to connect.
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/mohd-atir/
+
+📧 **Email**  
+mohdatir788@gmail.com
+
 ---
 
 ⭐ If you found this project helpful, feel free to **star the repository**.
