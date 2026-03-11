@@ -305,10 +305,10 @@ Aspiring Data Analyst
 If you found this project interesting or would like to discuss data analytics opportunities, feel free to connect.
 
 🔗 **LinkedIn**  
-https://www.linkedin.com/in/mohd-atir/
+[Connect With Me](https://www.linkedin.com/in/mohd-atir/)
 
 📧 **Email**  
-mohdatir788@gmail.com
+[Contact Us](mohdatir788@gmail.com)
 
 ---
 
