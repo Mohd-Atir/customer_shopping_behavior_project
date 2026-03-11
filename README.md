@@ -308,7 +308,7 @@ If you found this project interesting or would like to discuss data analytics op
 [Connect With Me](https://www.linkedin.com/in/mohd-atir/)
 
 📧 **Email**  
-[Contact Us](mohdatir788@gmail.com)
+mohdatir788@gmail.com
 
 ---
 
